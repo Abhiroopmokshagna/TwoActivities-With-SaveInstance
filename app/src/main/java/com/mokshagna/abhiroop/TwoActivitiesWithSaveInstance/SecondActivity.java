@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.twoactivities;
+package com.mokshagna.abhiroop.TwoActivitiesWithSaveInstance;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class SecondActivity extends AppCompatActivity {
-    public static final String EXTRA_REPLY = "com.example.android.twoactivities.extra.REPLY";
+    public static final String EXTRA_REPLY = "com.example.android.TwoActivitiesWithSaveInstance.extra.REPLY";
     private EditText mReply;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.twoactivities;
+package com.mokshagna.abhiroop.TwoActivitiesWithSaveInstance;
 
 import org.junit.Test;
 
